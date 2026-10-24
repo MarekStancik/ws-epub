@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.3] (2026-10-24)
+
+### 📌　Dependencies
+
+* update adm-zip dependency to `0.6.1`
+
+
 ## [3.0.2](https://github.com/bluelovers/ws-epub/compare/epub2@3.0.1...epub2@3.0.2) (2023-09-20)
 
 

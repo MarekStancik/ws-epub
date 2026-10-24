@@ -63,7 +63,7 @@
     "preversion": "yarn run test"
   },
   "dependencies": {
-    "adm-zip": "^0.5.10",
+    "adm-zip": "^0.6.1",
     "array-hyper-unique": "^2.1.4",
     "bluebird": "^3.7.2",
     "crlf-normalize": "^1.0.19",
