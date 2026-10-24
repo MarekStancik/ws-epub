@@ -1,6 +1,6 @@
 {
-  "name": "epub2",
-  "version": "3.0.2",
+  "name": "@marekstancik/epub2",
+  "version": "3.0.3",
   "description": "Parse ePub electronic book files with Node.JS",
   "keywords": [
     "archive",
@@ -49,6 +49,9 @@
   ],
   "main": "./index",
   "typings": "./index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "lib": "lib",
     "test": "test"
